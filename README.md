@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NDPtype
-- [ᴠɴ] I'm from Hanoi, Vietnam.
-- 👀 I’m interested in Photoshop and typography.
+- [ᴠɴ] I'm from Hanoi, Vietnam
+- 👀 I’m interested in Photoshop and typography
 - 🌱 I’m currently learning Photoshop
-- 💞️ I’m looking to collaborate on ᴏᴘᴇɴ-ꜱᴏᴜʀᴄᴇ ᴛʏᴘᴇꜰᴀᴄᴇꜱ.
+- 💞️ I’m looking to contribute to ᴏᴘᴇɴ-ꜱᴏᴜʀᴄᴇ ᴛʏᴘᴇꜰᴀᴄᴇꜱ
 - 👌 Thank you for visiting my repository.
 
 <!---
