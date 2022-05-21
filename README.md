@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @NDPtype
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- [ᴠɴ] I'm from Hanoi, Vietnam.
+- 👀 I’m interested in Photoshop and typography.
+- 🌱 I’m currently learning Photoshop
+- 💞️ I’m looking to collaborate on ᴏᴘᴇɴ-ꜱᴏᴜʀᴄᴇ ᴛʏᴘᴇꜰᴀᴄᴇꜱ.
+- 👌 Thank you for visiting my repository.
 
 <!---
 NDPtype/NDPtype is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
