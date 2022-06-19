@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NDPtype
 - [ᴠɴ] I'm from Hanoi, Vietnam
-- 🎬 My favourite movies are Godzilla vs. Kong and Divergent
+- 🎬 My favourite movies are 2012 and Divergent
 - 👀 I’m interested in Photoshop and typography
 - 🌱 I’m currently learning Photoshop
 - 💞️ I’m looking to contribute to ᴏᴘᴇɴ-ꜱᴏᴜʀᴄᴇ ᴛʏᴘᴇꜰᴀᴄᴇꜱ
