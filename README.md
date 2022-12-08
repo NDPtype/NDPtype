@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NDPtype
 - [ᴠɴ] I'm from Hanoi, Vietnam
-- 💞️ I’m looking to contribute to ᴏᴘᴇɴ-ꜱᴏᴜʀᴄᴇ ᴛʏᴘᴇꜰᴀᴄᴇꜱ
+- 💞️ I’m looking to contribute to ᴏᴘᴇɴ-sᴏᴜʀᴄᴇ ᴛʏᴘᴇꜰᴀᴄᴇs
 - 👌 Thank you for visiting my repository.
 
 <!---
